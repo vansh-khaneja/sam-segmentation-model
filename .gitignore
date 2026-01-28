@@ -15,20 +15,6 @@ __pycache__/
 *.pyo
 .Python
 
-# Output images
-*.jpg
-*.jpeg
-*.png
-*.tiff
-*.bmp
-
-# RAW files
-*.ARW
-*.CR2
-*.NEF
-*.DNG
-*.RAF
-
 # IDE
 .idea/
 .vscode/
