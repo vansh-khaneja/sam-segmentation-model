@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Model files
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Output images
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.bmp
+
+# RAW files
+*.ARW
+*.CR2
+*.NEF
+*.DNG
+*.RAF
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
